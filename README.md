@@ -1,7 +1,7 @@
 # DUT Info 1 > Programmation Bases de Données
 
-### NOM : ADIGBONON
-### Prénom : Mahoutondji
+### NOM : DOE
+### Prénom : John
 ### Groupe de TP/TD : 
 - [x] 1
 - [ ] 2
